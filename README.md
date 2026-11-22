@@ -18,7 +18,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=murali-gude&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/📍_Hyderabad,_India-informational?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/💼_Open_to_Work-success?style=flat-square" alt="Open to work" />
 
@@ -98,8 +97,7 @@ Interview practice app with **JWT login**, question management and **AI-assisted
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/murali-gude/AI-Interview-Platform)
 
-    </td>
-    <td width="50%" valign="top">
+    
 
 ### 🎅 Secret Santa Web Application
 Gift-exchange app with REST APIs built on a clean **controller → service → repository** architecture. Solved real-world **CORS** and database connection issues during frontend/backend integration.
@@ -109,7 +107,7 @@ Gift-exchange app with REST APIs built on a clean **controller → service → r
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/murali-gude/Secret_Santa_App)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://secret-santa-app-five.vercel.app)
 
-    </td>
+  
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -122,8 +120,7 @@ Mobile-friendly business website with service pages and a contact form. Gathered
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/murali-gude/SanctuaryHomeInteriors)
 [![Live Demo](https://img.shields.io/badge/Live_Site-46E3B7?style=flat-square&logo=render&logoColor=black)](https://sanctuaryhomeinteriors.in)
 
-    </td>
-    <td width="50%" valign="top">
+    
 
 ### 📚 Book Management System
 CRUD application to **add, view, edit and delete** book records, using JSP and Servlets for the web layer and **JDBC prepared statements** for secure MySQL access.
@@ -133,7 +130,7 @@ CRUD application to **add, view, edit and delete** book records, using JSP and S
 <!-- Add the repo link here once it's public:
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/murali-gude/YOUR-REPO-NAME) -->
 
-    </td>
+  
   </tr>
 </table>
 
@@ -207,16 +204,5 @@ CRUD application to **add, view, edit and delete** book records, using JSP and S
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
-**Murali-Gude/Murali-Gude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
