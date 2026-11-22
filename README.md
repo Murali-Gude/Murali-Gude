@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--<!-- ============================================================
   GITHUB PROFILE README — Murali Krishna Gude
