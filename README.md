@@ -141,7 +141,7 @@ CRUD application to **add, view, edit and delete** book records, using JSP and S
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=murali-gude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<!--<img height="180" src="https://github-readme-stats.vercel.app/api?username=murali-gude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />-->
 
 <!-- ============ 6. MOST USED LANGUAGES ============ -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali-gude&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -199,7 +199,6 @@ CRUD application to **add, view, edit and delete** book records, using JSP and S
 
 <br/>
 
-*💬 Ask me about Java, Spring Boot, React or breaking into tech from a non-CS background!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
 
